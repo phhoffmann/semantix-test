@@ -1,0 +1,51 @@
+@media screen and (max-width: 768px) {
+  .content {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    position: fixed;
+  }
+
+  .container {
+    margin-left: 1em;
+  }
+
+  .sidebar-big {
+    display: none;
+  }
+
+  .sidebar-small {
+    height: 10vh;
+    width: 100vw;
+    position: static;
+    text-align: center;
+    background: linear-gradient(180deg, #000000 0%, #b5b5b5 100%);
+    display: block;
+
+    &_title {
+      font-size: 18px;
+      color: #fff;
+      margin-bottom: 2em;
+    }
+  }
+
+  .page_title {
+    font-size: 14px;
+  }
+  .bar-chart-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .bar-chart {
+    width: 80vw;
+  }
+}
+@media only screen and (min-width: 600px) {
+}
+@media only screen and (min-width: 768px) {
+}
+@media only screen and (min-width: 992px) {
+}
+@media only screen and (min-width: 1382px) {
+}
