@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/semantix-test/static/css/main.caea82c2.chunk.css",
-    "main.js": "/semantix-test/static/js/main.bc16b6be.chunk.js",
-    "main.js.map": "/semantix-test/static/js/main.bc16b6be.chunk.js.map",
-    "runtime~main.js": "/semantix-test/static/js/runtime~main.a6dec5e3.js",
-    "runtime~main.js.map": "/semantix-test/static/js/runtime~main.a6dec5e3.js.map",
-    "static/js/2.4f826621.chunk.js": "/semantix-test/static/js/2.4f826621.chunk.js",
-    "static/js/2.4f826621.chunk.js.map": "/semantix-test/static/js/2.4f826621.chunk.js.map",
-    "index.html": "/semantix-test/index.html",
-    "precache-manifest.28ddeabe44eebbeba825baad28935f8f.js": "/semantix-test/precache-manifest.28ddeabe44eebbeba825baad28935f8f.js",
-    "service-worker.js": "/semantix-test/service-worker.js",
-    "static/css/main.caea82c2.chunk.css.map": "/semantix-test/static/css/main.caea82c2.chunk.css.map",
-    "static/media/App.scss": "/semantix-test/static/media/OpenSans-SemiBold.096d8c73.ttf"
+    "main.css": "/semantix-test/page1/static/css/main.bde70497.chunk.css",
+    "main.js": "/semantix-test/page1/static/js/main.176aaa29.chunk.js",
+    "main.js.map": "/semantix-test/page1/static/js/main.176aaa29.chunk.js.map",
+    "runtime~main.js": "/semantix-test/page1/static/js/runtime~main.c0374220.js",
+    "runtime~main.js.map": "/semantix-test/page1/static/js/runtime~main.c0374220.js.map",
+    "static/js/2.36770756.chunk.js": "/semantix-test/page1/static/js/2.36770756.chunk.js",
+    "static/js/2.36770756.chunk.js.map": "/semantix-test/page1/static/js/2.36770756.chunk.js.map",
+    "index.html": "/semantix-test/page1/index.html",
+    "precache-manifest.b9b6c62cb272c382a2bb27b0d8b54aa8.js": "/semantix-test/page1/precache-manifest.b9b6c62cb272c382a2bb27b0d8b54aa8.js",
+    "service-worker.js": "/semantix-test/page1/service-worker.js",
+    "static/css/main.bde70497.chunk.css.map": "/semantix-test/page1/static/css/main.bde70497.chunk.css.map",
+    "static/media/App.scss": "/semantix-test/page1/static/media/OpenSans-SemiBold.096d8c73.ttf"
   }
 }
